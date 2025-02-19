@@ -119,5 +119,5 @@ docker run -it --rm fedrod/hdx-spark-takehome:latest
 ## 7. Submit Your Solution
 
 **Please make your repository private!**\
-Push your changes to your fork, and invite the contributors of this repo (@fedrod and @aggarwaa)
+Push your changes to your fork, and invite the contributors of this repo (@fedrod @aggarwaa and @emanb29)
 
